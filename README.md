@@ -1,5 +1,5 @@
 # myrepo
-Analysis of the stuff
+Analysis data
 
 This is a line from RStudio
 
